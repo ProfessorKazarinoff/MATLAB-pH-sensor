@@ -14,3 +14,18 @@ We had to complete the following tasks to achieve our final goal:
 5. Refine collected data by conducting multiples tests, putting the sensor in solutions of
 different pH, collecting the resulting data, and producing a plot corresponding to the data.
 (Steps listed above appear a lot easier than they actually are.)
+
+## Hardware Setup
+
+## Future Work
+Teams that intend to carry out projects that are similar to ours, in the future, can utilize our code,
+and maybe improve on the commenting part, or probably on the plot-creating section of the code
+(we have done our best though). They can also work on collecting more accurate pH samples,
+and from different solutions, just to show that the hardware setup, and the code works without
+errors.
+The websites that will be helpful for them include:
+i. https://www.mathworks.com/discovery/arduino-programming-matlab-simulink.html
+ii. https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v33/introduction-
+the-arduino-software-ide-and-code
+iii. https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v33/experiment-
+7-reading-a-temperature-sensor
