@@ -16,6 +16,7 @@ different pH, collecting the resulting data, and producing a plot corresponding 
 (Steps listed above appear a lot easier than they actually are.)
 
 ## Hardware Setup
+![Alt Title](/doc/pH_sensor1.JPG "Alt Text")
 
 ## Future Work
 Teams that intend to carry out projects that are similar to ours, in the future, can utilize our code,
