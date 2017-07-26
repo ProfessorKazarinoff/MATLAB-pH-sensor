@@ -17,6 +17,7 @@ different pH, collecting the resulting data, and producing a plot corresponding 
 
 ## Hardware Setup
 ![Alt Title](/doc/pH_sensor1.JPG "Alt Text")
+![Alt Title](/doc/pH_setup.png "Alt Text")
 
 ## Arduino Code
 
