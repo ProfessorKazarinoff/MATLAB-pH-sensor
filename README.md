@@ -18,6 +18,14 @@ different pH, collecting the resulting data, and producing a plot corresponding 
 ## Hardware Setup
 ![Alt Title](/doc/pH_sensor1.JPG "Alt Text")
 
+## Arduino Code
+
+The [pH_sensor.ino](pH_sensor.ino) sketch was uploaded on the Arduino using the Arduino IDE.
+
+## MATLAB Code
+
+The [pH_sensor.m](pH_sensor.m) script was run in MATLAB.
+
 ## Future Work
 Teams that intend to carry out projects that are similar to ours, in the future, can utilize our code,
 and maybe improve on the commenting part, or probably on the plot-creating section of the code
