@@ -29,10 +29,13 @@ The [pH_sensor.m](pH_sensor.m) script was run in MATLAB.
 
 ## Results
 
+# pH 7 solution
 ![Alt Title](/doc/pH_results1.png "Alt Text")
 
+# pH 10 solution
 ![Alt Title](/doc/pH_results2.png "Alt Text")
 
+# pH 4 solution
 ![Alt Title](/doc/pH_results3.png "Alt Text")
 
 ## Future Work
