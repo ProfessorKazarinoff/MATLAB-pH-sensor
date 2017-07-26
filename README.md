@@ -26,6 +26,14 @@ The [pH_sensor.ino](pH_sensor.ino) sketch was uploaded on the Arduino using the 
 
 The [pH_sensor.m](pH_sensor.m) script was run in MATLAB.
 
+## Results
+
+![Alt Title](/doc/pH_results1.png "Alt Text")
+
+![Alt Title](/doc/pH_results2.png "Alt Text")
+
+![Alt Title](/doc/pH_results3.png "Alt Text")
+
 ## Future Work
 Teams that intend to carry out projects that are similar to ours, in the future, can utilize our code,
 and maybe improve on the commenting part, or probably on the plot-creating section of the code
