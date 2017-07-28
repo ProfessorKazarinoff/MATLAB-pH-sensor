@@ -16,6 +16,7 @@ different pH, collecting the resulting data, and producing a plot corresponding 
 (Steps listed above appear a lot easier than they actually are.)
 
 ## Hardware Setup
+The pH sensor was connected to the Vernier Interface Shield (Sparkfun part# DEV-12858) using the white British Telecom Analog (BTA) connector. The Vernier Interface Shield was placed on top of the Arduino and carefully connected. The Arduino was powered and connected to MATLAB with a red Mini-B USB cable.
 ![Alt Title](/doc/pH_sensor1.JPG "Alt Text")
 ![Alt Title](/doc/pH_setup.png "Alt Text")
 
