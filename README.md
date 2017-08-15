@@ -16,6 +16,21 @@ different pH, collecting the resulting data, and producing a plot corresponding 
 (Steps listed above appear a lot easier than they actually are.)
 
 ## Hardware Setup
+
+### Bill of Materials
+|component|vendor|
+|---|---|
+|Arduino|[SparkFun RedBoard - Programmed with Arduino](https://www.sparkfun.com/products/13975)|
+|pH Sensor|[Vernier pH Sensor PH-BTA](https://www.sparkfun.com/products/12872)|
+|Sensor Shield|[SparkFun Vernier Interface Shield](https://www.sparkfun.com/products/12858)|
+|Breadboard|[Breadboard - Self-Adhesive (White)](https://www.sparkfun.com/products/12002)|
+|Breadboard Base|[Arduino and Breadboard Holder](https://www.sparkfun.com/products/11235)|
+|Mini-B USB cable|[SparkFun USB Mini-B Cable - 6 Foot](https://www.sparkfun.com/products/11301)|
+|ph 4 solution|Standard Buffered pH 4 Solution - from PCC Engineering Lab|
+|ph 7 solution|Standard Buffered pH 7 Solution - from PCC Engineering Lab|
+|ph 10 solution|Standard Buffered pH 10 Solution - from PCC Engineering Lab|
+
+### Hookup Guide
 The pH sensor (Vernier part# PH-BTA) was connected to the Vernier Interface Shield (Sparkfun part# DEV-12858) using the white British Telecom Analog (BTA) connector at the end of the pH sensor. The Vernier Interface Shield was placed on top of the Arduino (Sparkfun part# DEV-13975) and carefully seated so that all the pins connected. The Arduino was powered and connected to a laptop computer running MATLAB using a red Mini-B USB cable (Sparkfun part# CAB-11301).
 ![Alt Title](/doc/pH_sensor1.JPG "Alt Text")
 ![Alt Title](/doc/pH_setup.png "Alt Text")
