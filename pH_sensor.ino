@@ -35,7 +35,7 @@ void loop()
   //  Serial.print("  deg F: ");
   //  Serial.println(degreesF);
 
-    delay(100); // repeat once per second (change as you wish!)
+    delay(100); // repeat 10x per second (change as you wish!)
 }
 
 
