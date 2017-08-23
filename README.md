@@ -66,3 +66,6 @@ ii. https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v33/
 the-arduino-software-ide-and-code
 iii. https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v33/experiment-
 7-reading-a-temperature-sensor
+
+## License
+GNU General Public License v3.0
