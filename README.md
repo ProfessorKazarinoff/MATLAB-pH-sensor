@@ -41,7 +41,7 @@ The [pH_sensor.ino](pH_sensor.ino) sketch was uploaded on the Arduino using the 
 
 ## MATLAB Code
 
-The [pH_sensor.m](pH_sensor.m) script was run in MATLAB. **Ensure the __Port__ is set correctly.** This may be `COM4` but check the device manager to see which Port the Adruino is connected to.
+The [pH_sensor.m](pH_sensor.m) script was run in MATLAB. **Ensure the Port is set correctly.** This may be `COM4` but check the device manager to see which Port the Adruino is connected to.
 
 ## Results
 
