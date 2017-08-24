@@ -53,7 +53,7 @@ for i=1:length(x);
     drawnow
 end
 end
-%%
+%% close the serial port
 fclose(a);
 delete(a)
 clear a;
