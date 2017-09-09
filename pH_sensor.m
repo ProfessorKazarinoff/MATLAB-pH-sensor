@@ -3,7 +3,7 @@
 % light level for the course of that time using the connected Arduino
 % Hardware.
 
-% Revised by: Nathan Sauve and group
+% Revised by: ENGR114 Students at Portland Community College, Spring 2017
 % Revised on: 6/7/17
 % Description: Code for reading pH levels of solutions
 
