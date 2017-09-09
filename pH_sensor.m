@@ -11,8 +11,8 @@
 %%
 clc,clear all, close all
 
-duration = input('Enter duration of run time (in seconds): ')
-duration = duration*10;
+duration = input('Enter the number of data points you want to collect (~10 data points per second): ')
+
 
 %% Set up serial port and ensure it outputs data
 % Change COM4 to the Port the Arduino is connected to
@@ -30,9 +30,9 @@ h = animatedline;
 ax = gca;
 ax.YGrid = 'on';
 ax.YLim = [0 14];       % the serial output range
-xlabel('Time (seconds)');
-ylabel('pH levels');
-title('pH Sensor Readings');
+xlabel('Data Point (#)');
+ylabel('pH level');
+title('pH Sensor Readings over time');
 
 %%
 x=linspace(1,duration,duration);  % can change to change the number of data points 
